@@ -9,21 +9,6 @@ spotipy
 ffmpeg-python
 python-dotenv
 
-# ==========================================
-# 🤖 ESSENTIAL DETAILS REGARDING THE BOT IDENTITY AND ITS PRIMARY OWNER
-# ==========================================
-OWNER_USERNAME=@Shinchan_9_5
-BOT_USERNAME=Shinchan_isai_bot
-BOT_NAME=ShinchanXMusic
-
-# ==========================================
-# 🔗 LINKS TO THE OFFICIAL SUPPORT CHATS, UPDATES CHANNEL, AND GITHUB SOURCE REPOSITORY
-# ==========================================
-SUPPORT_CHANNEL=@AnimeNetworkTamil 
-SUPPORT_CHAT=https://t.me/+E_2rDRHbFhg1OTY9
-UPSTREAM_BRANCH=main
-MUST_JOIN=https://t.me/+E_2rDRHbFhg1OTY9
-GIT_TOKEN=
 
 # ==========================================
 # ⚙️ CONFIGURATION FOR PLAYBACK LIMITS, ASSISTANT TIMEOUTS, AND FILE SIZE RESTRICTIONS
